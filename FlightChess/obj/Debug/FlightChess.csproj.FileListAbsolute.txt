@@ -1,7 +1,0 @@
-C:\Users\Rain\.dotnet\FlightChess\bin\Debug\FlightChess.exe.config
-C:\Users\Rain\.dotnet\FlightChess\bin\Debug\FlightChess.exe
-C:\Users\Rain\.dotnet\FlightChess\bin\Debug\FlightChess.pdb
-C:\Users\Rain\.dotnet\FlightChess\obj\Debug\FlightChess.csprojAssemblyReference.cache
-C:\Users\Rain\.dotnet\FlightChess\obj\Debug\FlightChess.csproj.CoreCompileInputs.cache
-C:\Users\Rain\.dotnet\FlightChess\obj\Debug\FlightChess.exe
-C:\Users\Rain\.dotnet\FlightChess\obj\Debug\FlightChess.pdb
