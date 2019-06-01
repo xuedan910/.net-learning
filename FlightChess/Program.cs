@@ -8,11 +8,14 @@ namespace FlightChess
 {
     class Program
     {
-        static int[] Map=new int[100];
+        static int[] Map = new int[100];
+        //two players' position
+        static int[] PlayerPos = new int[2];
         static void Main(string[] args)
         {
             GameHeader();
             InitialMap();
+            DrawMap();
 
             Console.ReadKey();
         }
@@ -51,6 +54,49 @@ namespace FlightChess
             for (int i = 0; i < timeTunnel.Length; i++)
             {
                 Map[timeTunnel[i]] = 4;
+            }
+        }
+        public static void DrawMap()
+        {
+            FirstLine();
+        }
+        private static void FirstLine()
+        {
+            for (int i = 0; i < 30; i++)
+            {
+                if (PlayerPos[0] == PlayerPos[1] && PlayerPos[0] == i)
+                {
+                    Console.Write("<>");
+                }
+                else if (PlayerPos[0] == i)
+                {
+                    Console.Write("Ａ");
+                }
+                else if (PlayerPos[1] == i)
+                {
+                    Console.Write("Ｂ");
+                }
+                else
+                {
+                    switch (Map[i])
+                    {
+                        case 0:
+                            Console.Write("？");
+                            break;
+                        case 1:
+                            Console.Write("＠");
+                            break;
+                        case 2:
+                            Console.Write("＊");
+                            break;
+                        case 3:
+                            Console.Write("＾");
+                            break;
+                        case 4:
+                            Console.Write("＃");
+                            break;
+                    }
+                }
             }
         }
     }
