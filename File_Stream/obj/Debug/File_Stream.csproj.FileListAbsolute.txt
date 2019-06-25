@@ -1,0 +1,11 @@
+C:\Users\Rain\.dotnet\File_Stream\bin\Debug\File_Stream.exe.config
+C:\Users\Rain\.dotnet\File_Stream\bin\Debug\File_Stream.exe
+C:\Users\Rain\.dotnet\File_Stream\bin\Debug\File_Stream.pdb
+C:\Users\Rain\.dotnet\File_Stream\obj\Debug\File_Stream.csprojAssemblyReference.cache
+C:\Users\Rain\.dotnet\File_Stream\obj\Debug\File_Stream.csproj.CoreCompileInputs.cache
+C:\Users\Rain\.dotnet\File_Stream\obj\Debug\File_Stream.exe
+C:\Users\Rain\.dotnet\File_Stream\obj\Debug\File_Stream.pdb
+C:\Users\Rain\.dotnet\File_Stream\bin\Debug\Object Oriented Programming.exe
+C:\Users\Rain\.dotnet\File_Stream\bin\Debug\Object Oriented Programming.pdb
+C:\Users\Rain\.dotnet\File_Stream\bin\Debug\Object Oriented Programming.exe.config
+C:\Users\Rain\.dotnet\File_Stream\obj\Debug\File_Stream.csproj.CopyComplete

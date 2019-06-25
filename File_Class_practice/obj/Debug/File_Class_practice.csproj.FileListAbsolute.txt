@@ -1,0 +1,7 @@
+C:\Users\Rain\.dotnet\File_Class_practice\bin\Debug\File_Class_practice.exe.config
+C:\Users\Rain\.dotnet\File_Class_practice\bin\Debug\File_Class_practice.exe
+C:\Users\Rain\.dotnet\File_Class_practice\bin\Debug\File_Class_practice.pdb
+C:\Users\Rain\.dotnet\File_Class_practice\obj\Debug\File_Class_practice.csprojAssemblyReference.cache
+C:\Users\Rain\.dotnet\File_Class_practice\obj\Debug\File_Class_practice.csproj.CoreCompileInputs.cache
+C:\Users\Rain\.dotnet\File_Class_practice\obj\Debug\File_Class_practice.exe
+C:\Users\Rain\.dotnet\File_Class_practice\obj\Debug\File_Class_practice.pdb

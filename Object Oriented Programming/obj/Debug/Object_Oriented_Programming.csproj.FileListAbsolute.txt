@@ -1,0 +1,6 @@
+C:\Users\Rain\.dotnet\Object Oriented Programming\bin\Debug\Object Oriented Programming.exe.config
+C:\Users\Rain\.dotnet\Object Oriented Programming\bin\Debug\Object Oriented Programming.exe
+C:\Users\Rain\.dotnet\Object Oriented Programming\bin\Debug\Object Oriented Programming.pdb
+C:\Users\Rain\.dotnet\Object Oriented Programming\obj\Debug\Object_Oriented_Programming.csproj.CoreCompileInputs.cache
+C:\Users\Rain\.dotnet\Object Oriented Programming\obj\Debug\Object Oriented Programming.exe
+C:\Users\Rain\.dotnet\Object Oriented Programming\obj\Debug\Object Oriented Programming.pdb

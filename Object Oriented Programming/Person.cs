@@ -6,8 +6,26 @@ using System.Threading.Tasks;
 
 namespace Object_Oriented_Programming
 {
-    class Person
+    public class Person
     {
+        public Person()
+        {
+
+        }
+        // constructor
+        public Person(string name, int age, string gender)
+        {
+            this.Name = name;
+            this.Age = age;
+            this.Gender = gender;
+        }
+
+        // constructor call another constructor
+        public Person(string name, int age) : this(name, age, null)
+        {
+
+        }
+
         private string _name;
         public string Name
         {
@@ -32,7 +50,19 @@ namespace Object_Oriented_Programming
 
         public void Intro()
         {
-            Console.WriteLine("Hello, I'm {0}, I'm {1} years old. And I'm a {2}", Name, Age, Gender);
+            Console.WriteLine("Hello, I'm {0}, I'm {1} years old. And I'm a {2}", this.Name, this.Age, this.Gender);
+        }
+        public void Hello()
+        {
+            Console.WriteLine("Hello, I'm father");
+        }
+    }
+
+    class Student : Person
+    {
+        public new void Hello()
+        {
+            Console.WriteLine("Hello, I'm student");
         }
     }
 }

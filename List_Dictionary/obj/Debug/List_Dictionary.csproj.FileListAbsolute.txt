@@ -1,0 +1,7 @@
+C:\Users\Rain\.dotnet\List_Dictionary\bin\Debug\List_Dictionary.exe.config
+C:\Users\Rain\.dotnet\List_Dictionary\bin\Debug\List_Dictionary.exe
+C:\Users\Rain\.dotnet\List_Dictionary\bin\Debug\List_Dictionary.pdb
+C:\Users\Rain\.dotnet\List_Dictionary\obj\Debug\List_Dictionary.csprojAssemblyReference.cache
+C:\Users\Rain\.dotnet\List_Dictionary\obj\Debug\List_Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\Rain\.dotnet\List_Dictionary\obj\Debug\List_Dictionary.exe
+C:\Users\Rain\.dotnet\List_Dictionary\obj\Debug\List_Dictionary.pdb

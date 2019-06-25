@@ -1,0 +1,7 @@
+C:\Users\Rain\.dotnet\Hashtable\bin\Debug\Hashtable.exe.config
+C:\Users\Rain\.dotnet\Hashtable\bin\Debug\Hashtable.exe
+C:\Users\Rain\.dotnet\Hashtable\bin\Debug\Hashtable.pdb
+C:\Users\Rain\.dotnet\Hashtable\obj\Debug\Hash_table.csprojAssemblyReference.cache
+C:\Users\Rain\.dotnet\Hashtable\obj\Debug\Hash_table.csproj.CoreCompileInputs.cache
+C:\Users\Rain\.dotnet\Hashtable\obj\Debug\Hashtable.exe
+C:\Users\Rain\.dotnet\Hashtable\obj\Debug\Hashtable.pdb
