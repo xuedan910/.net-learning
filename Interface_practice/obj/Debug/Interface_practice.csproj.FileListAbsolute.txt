@@ -1,0 +1,7 @@
+C:\Users\Rain\.dotnet\Interface_practice\bin\Debug\Interface_practice.exe.config
+C:\Users\Rain\.dotnet\Interface_practice\bin\Debug\Interface_practice.exe
+C:\Users\Rain\.dotnet\Interface_practice\bin\Debug\Interface_practice.pdb
+C:\Users\Rain\.dotnet\Interface_practice\obj\Debug\Interface_practice.csprojAssemblyReference.cache
+C:\Users\Rain\.dotnet\Interface_practice\obj\Debug\Interface_practice.csproj.CoreCompileInputs.cache
+C:\Users\Rain\.dotnet\Interface_practice\obj\Debug\Interface_practice.exe
+C:\Users\Rain\.dotnet\Interface_practice\obj\Debug\Interface_practice.pdb

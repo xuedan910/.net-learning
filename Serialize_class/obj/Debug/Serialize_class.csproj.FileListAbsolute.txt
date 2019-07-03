@@ -1,0 +1,7 @@
+C:\Users\Rain\.dotnet\Serialize_class\bin\Debug\Serialize_class.exe.config
+C:\Users\Rain\.dotnet\Serialize_class\bin\Debug\Serialize_class.exe
+C:\Users\Rain\.dotnet\Serialize_class\bin\Debug\Serialize_class.pdb
+C:\Users\Rain\.dotnet\Serialize_class\obj\Debug\Serialize_class.csprojAssemblyReference.cache
+C:\Users\Rain\.dotnet\Serialize_class\obj\Debug\Serialize_class.csproj.CoreCompileInputs.cache
+C:\Users\Rain\.dotnet\Serialize_class\obj\Debug\Serialize_class.exe
+C:\Users\Rain\.dotnet\Serialize_class\obj\Debug\Serialize_class.pdb
